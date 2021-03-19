@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/todolist-react/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/todolist-react/static/js/main.b5059b43.chunk.js",
+    "main.js.map": "/todolist-react/static/js/main.b5059b43.chunk.js.map",
+    "runtime-main.js": "/todolist-react/static/js/runtime-main.7c6d06ad.js",
+    "runtime-main.js.map": "/todolist-react/static/js/runtime-main.7c6d06ad.js.map",
+    "static/js/2.5a013c4b.chunk.js": "/todolist-react/static/js/2.5a013c4b.chunk.js",
+    "static/js/2.5a013c4b.chunk.js.map": "/todolist-react/static/js/2.5a013c4b.chunk.js.map",
+    "static/js/3.12789ae6.chunk.js": "/todolist-react/static/js/3.12789ae6.chunk.js",
+    "static/js/3.12789ae6.chunk.js.map": "/todolist-react/static/js/3.12789ae6.chunk.js.map",
+    "index.html": "/todolist-react/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/todolist-react/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.5a013c4b.chunk.js.LICENSE.txt": "/todolist-react/static/js/2.5a013c4b.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/todolist-react/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7c6d06ad.js",
+    "static/js/2.5a013c4b.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.b5059b43.chunk.js"
+  ]
+}
