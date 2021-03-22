@@ -1,7 +1,6 @@
 import React, { useState } from 'react';
 import styled, { css } from 'styled-components';
 import { MdAdd } from 'react-icons/md';
-import Fade from 'react-reveal/Fade';
 import { useTodoNextId, useTodoDispatch } from '../TodoContext';
 
 const CircleButton = styled.button `
@@ -103,7 +102,6 @@ function TodoCreate () {
     return (
         <>
             {open && (
-                <Fade bottom>
                 <InsertFormPositioner>
                     <InsertForm onSubmit={onSubmit}>
                         <Input
@@ -114,7 +112,6 @@ function TodoCreate () {
                         />
                     </InsertForm>
                 </InsertFormPositioner>
-                </Fade>
             )}
             <CircleButton onClick={onToggle} open={open}>
                 <MdAdd />
